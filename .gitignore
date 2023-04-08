@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+nbtutil/NBTModel.dll
+nbtutil/NBTModel.pdb
+nbtutil/NBTUtil.exe
+nbtutil/NBTUtil.exe.config
+nbtutil/NBTUtil.pdb
+nbtutil/Substrate.dll
